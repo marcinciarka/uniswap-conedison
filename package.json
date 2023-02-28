@@ -1,6 +1,6 @@
 {
   "name": "@uniswap/conedison",
-  "version": "0.0.1",
+  "version": "1.3.0-fork",
   "description": "Utilities for Uniswap front-end development",
   "repository": "https://github.com/Uniswap/conedison",
   "homepage": "https://github.com/Uniswap/conedison#readme",
