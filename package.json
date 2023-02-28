@@ -9,7 +9,7 @@
     "dist/"
   ],
   "exports": {
-    "./*": "./dist/*"
+    "./*": "./*"
   },
   "typesVersions": {
     "*": {
